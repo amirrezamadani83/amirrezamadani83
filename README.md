@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Amirreza
-- 👀 I’m interested in Programming and Making websites
-- 🌱 I’m currently learning More and more about asp.net core and .net products
-   and I really need to reach more experience on this frame work :)
-- 💞️ I’m looking to collaborate a frontend Developer with UI/UX skill
-- 📫 You can contact with me on Instagram @amir_vll and on Telegram @Black_Brain04
- and my Email Adress : Amirreza.madani83@gmail.com
+- 👀 I’m interested in Programming , WebDeveloping , Pentesting , Security & Hack
+- 🌱 I’m currently learning more and try to upgrade myself day by day
+- 💞️ If you wanna contact me here you are:
+-    Instagram : amir._alef
+-    Mail : amirreza.madani83@gmail.com
+-    Telegram : @Black_Brain04
+- Good Luck:)
